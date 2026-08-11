@@ -1,0 +1,4 @@
+- Teacher = training data
+- Teacher scores the performance of the training examples
+- Uses performance score to shuffle weights "randomly"
+- Relatively slow learning due to "randomness"
